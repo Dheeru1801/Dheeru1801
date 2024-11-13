@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheeru1801" alt="dheeru1801" /></a> </p>
 
+- 🌱 I’m from uttarakhand,Inida and currently studying in **Dehradun**
+
 - 🌱 I’m currently learning **React and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dheeru1801?tab=repositories](https://github.com/Dheeru1801?tab=repositories)
+
+- In my free time i like to read Novels
 
 - 📫 How to reach me **chandradheeraj123@gmail.com**
 
